@@ -1,0 +1,138 @@
+h1 {
+font-family: Helvetica;
+color: red;
+font-weight: lighter;
+font-size: 40px;
+position: absolute;
+top: 10px;
+}
+
+#logoutuser {
+font-family: Helvetica;
+font-size:20px;
+color: black;
+position: absolute;
+right: 150px;
+top: 50px;
+z-index: 5;
+}
+
+#login {
+font-family: Helvetica;
+font-size: 20px;
+color: red;
+position: absolute;
+left: 1048px;
+top: 208px;
+}
+
+#attemptlogin {
+font-family: Helvetica;
+position: absolute;
+left: 1000px;
+top: 283px;
+}
+
+#user_but {
+position: absolute;
+top: 74px;
+right:81px;
+}
+
+#register_button {
+position: absolute;
+right: 23px;
+}
+
+#articlepost {
+position: absolute;
+top: 200px;
+font-family: Helvetica;
+font-size: 20px;
+color: red;
+}
+
+#articleform {
+font-family: Helvetica;
+}
+
+#register #new_register {
+font-family: Helvetica;
+color: red;
+font-size: 20px;
+}
+
+#register {
+position: absolute;
+left: 1040px;
+top: 380px;
+}
+
+.article_list {
+font-family: Helvetica;
+position: relative;
+top: 10px;
+}
+
+#show_articles {
+color: red;
+font-size: 30px;
+font-family: Helvetica;
+}
+
+#show_articles p {
+position:relative;
+bottom: 7px;
+}
+
+#banner {
+position: relative;
+right: 19px;
+bottom: 8px;
+width: 1280px;
+height: 116px;
+background-color: lightblue;
+border: solid thick grey;
+}
+
+#rect {
+left: 982px;
+top: 200px;
+position: absolute;
+width: 209px;
+height: 180px;
+border: solid thick lightblue;
+}
+
+#rect2 {
+position: absolute;
+top: 197px;
+left: 977px;
+width: 243px;
+height: 279px;
+border: solid thick lightblue;
+}
+
+#favorites {
+position: absolute;
+top: 283px;
+right: 145px;
+font-size: 20px;
+font-family: Helvetica;
+}
+
+#notifications {
+position: absolute;
+top: 341px;
+right: 131px;
+font-size: 20px;
+font-family: Helvetica;
+}
+
+#postarticle {
+font-family: Helvetica;
+position: absolute;
+right: 123px;
+top: 224px;
+font-size: 20px;
+}

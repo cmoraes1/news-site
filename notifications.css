@@ -1,0 +1,59 @@
+#banner {
+position: relative;
+right: 19px;
+bottom: 8px;
+width: 1280px;
+height: 116px;
+background-color: lightblue;
+border: solid thick grey;
+}
+
+h1 {
+font-family: Helvetica;
+color: red;
+font-weight: lighter;
+font-size: 40px;
+position: absolute;
+top: 5px;
+left: 14px;
+}
+
+#notif_header {
+font-family: Helvetica;
+font-size: 20px;
+color: red;
+position: absolute;
+top: 120px;
+left: 40px;
+}
+
+#logoutuser {
+font-family: Helvetica;
+font-size:20px;
+color: black;
+position: absolute;
+top: 10px;
+right: 144px;
+top: 45px;
+z-index: 5;
+}
+
+#notif_info {
+font-family: Helvetica;
+position: relative;
+top: 175px;
+left: 41px;
+}
+
+#notif_button {
+position: relative;
+top: 176px;
+left: 41px;
+}
+
+#back {
+font-family: Helvetica;
+position: absolute;
+right: 80px;
+bottom: -50px;
+}

@@ -1,0 +1,128 @@
+#banner {
+position: relative;
+right: 19px;
+bottom: 8px;
+width: 1280px;
+height: 116px;
+background-color: lightblue;
+border: solid thick grey;
+}
+
+h1 {
+font-family: Helvetica;
+color: red;
+font-weight: lighter;
+font-size: 40px;
+position: absolute;
+top: 10px;
+}
+
+#article_info {
+font-family: Helvetica;
+}
+
+#article_info #title_header {
+font-weight: bold;
+font-size: 15px;
+}
+
+#article_info #content {
+font-weight: bold;
+font-size: 15px;
+}
+
+#posted_by {
+font-size: 13px;
+}
+
+#logout {
+position: absolute;
+top: 50px;
+right: 150px;
+font-family: Helvetica;
+font-size: 20px;
+}
+
+#return {
+position: absolute;
+right: 86px;
+top: 147px;
+font-family: Helvetica;
+}
+
+#info {
+font-family: Helvetica;
+font-size: 13px;
+}
+
+#leave_comment {
+font-family: Helvetica;
+font-size: 20px;
+font-weight: bold;
+color: red;
+}
+
+#comment_head {
+font-size: 20px;
+color: red;
+font-weight: bold;
+font-family: Helvetica;
+}
+
+#comment_posted {
+font-family: Helvetica;
+}
+
+#submit_add {
+position: absolute;
+left: 110px;
+top: 157px;
+}
+
+#submit_delete {
+position: absolute;
+left: 110px;
+top: 157px;
+}
+
+#comment_start {
+width: 100%;
+height: 2px;
+background-color: lightblue;
+}
+
+#comment_end {
+width: 100%;
+height: 2px;
+backgroundcolor: lightblue;
+}
+
+#article_end {
+width: 100%;
+height: 2px;
+background-color: lightblue;
+}
+
+#article_header {
+color: red;
+font-size: 20px;
+font-weight: bold;
+}
+
+#edit_art {
+position: absolute;;
+top: 157px;
+left: 205px;
+}
+
+#delete_art {
+position: absolute;
+top: 157px;
+left: 305px;
+}
+
+#delete_but {
+position: relative;
+left: 100px;
+bottom: 19px;
+}
